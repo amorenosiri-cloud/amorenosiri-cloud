@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hola, soy Angel
 
-<!--
-**amorenosiri-cloud/amorenosiri-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Google Certified | 10+ años convirtiendo operaciones 
+en decisiones basadas en datos
 
-Here are some ideas to get you started:
+Vengo de liderar equipos de call center donde manejaba KPIs como CSAT, 
+FCR y AHT — hoy aplico ese mismo ojo analítico con SQL, Python, R, 
+Tableau y Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Stack: SQL | Python | R | Power BI | Tableau | Excel | ETL
+
+📂 Proyectos destacados: [ver abajo]
+
+📫 Contacto: LinkedIn | a.morenosiri@hotmail.com
