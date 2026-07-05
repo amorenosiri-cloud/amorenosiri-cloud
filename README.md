@@ -1,14 +1,14 @@
-👋 Hola, soy Angel
+👋 Hi, I'm Angel
 
-📊 Data Analyst | Google Certified | 10+ años convirtiendo operaciones 
-en decisiones basadas en datos
+📊 Data Analyst | Google Certified | 10+ years turning operations into 
+data-driven decisions
 
-Vengo de liderar equipos de call center donde manejaba KPIs como CSAT, 
-FCR y AHT — hoy aplico ese mismo ojo analítico con SQL, Python, R, 
-Tableau y Power BI en el area de datos.
+I come from leading call center teams where I managed KPIs like CSAT, 
+FCR, and AHT — today I bring that same analytical eye to SQL, Python, 
+R, Tableau, and Power BI.
 
 🔧 Stack: SQL | Python | R | Power BI | Tableau | Excel | ETL
 
-📂 Proyectos destacados: [ver abajo]
+📂 Featured Projects: [see pinned repos below]
 
-📫 Contacto: LinkedIn | a.morenosiri@hotmail.com
+📫 Contact: LinkedIn | a.morenosiri@hotmail.com
